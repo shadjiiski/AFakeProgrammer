@@ -1,4 +1,4 @@
-;    AFakeProgrammer - frimware for AT89C4051 microcontroller, turning it into programmer for the devices of the same type
+;    AFakeProgrammer - firmware for AT89C4051 microcontroller, turning it into programmer for the devices of the same type
 ;
 ;    Copyright (C) 2013  Stanislav Hadjiiski, Martin Yordanov
 ;
